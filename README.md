@@ -1,3 +1,8 @@
-# PyOptimum
+# PyOptimum Examples
 
-This is a library for access to the [Optimize API](https://optimize.vicbee.net/api/ui).
+Examples for the PyOptimum library
+
+Notebook live on binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcdeoliveira/pyoptimum-examples/master?filepath=examples%2Fportfolio.ipynb)
+Copy markdown link to clipboard

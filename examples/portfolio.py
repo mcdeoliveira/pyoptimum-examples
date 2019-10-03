@@ -5,6 +5,9 @@ print('PyOptimum Porfolio Example')
 print('> Setting up problem')
 # setup problem
 
+
+# here is a test comment from cody
+
 # covariances
 s1 = 0.06
 s2 = 0.03

@@ -9,3 +9,5 @@ The [Portfolio notebook](examples/portfolio.ipynb) can be visualized and interac
 [binder](https://mybinder.org). Just click on the binder logo:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcdeoliveira/pyoptimum-examples/master?filepath=examples%2Fportfolio.ipynb)
+
+See [VICBee.net](vicbee.net) for more details.

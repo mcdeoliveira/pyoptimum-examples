@@ -6,7 +6,7 @@ This library gives you quick access to the functionality in the [Optmize API](ht
 in the Python language.
 
 The [Portfolio notebook](examples/portfolio.ipynb) can be visualized and interacted with online on
-[binder](https://mybinder.org). Just click on the binder logo:
+[binder](https://mybinder.org). Just click on the binder logo below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcdeoliveira/pyoptimum-examples/master?filepath=examples%2Fportfolio.ipynb)
 

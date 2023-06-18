@@ -2,7 +2,7 @@
 
 This is a repository with examples for using the [PyOptimum library](https://github.com/mcdeoliveira/pyoptimum).
 
-This library gives you quick access to the functionality in the [Optmize API](https://optimize.vicbee.net/api/ui)
+This library gives you quick access to the functionality in the [Optmize API](https://optimize.vicbee.net/optimize/api/ui)
 in the Python language.
 
 The [Portfolio notebook](examples/portfolio.ipynb) can be visualized and interacted with online on
